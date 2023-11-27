@@ -30,9 +30,9 @@ Se introduce el concepto de interfaces en TypeScript, utilizando el ejemplo de u
 
 
 ## ¿Donde aprender más? 👨‍🎓
-[Curso Open Bootcamp] (https://www.youtube.com/watch?v=RI7j5bicTEw&list=PLkVpKYNT_U9egW5padLMHmnTPb6xm4hLf)
+[Curso Open Bootcamp](https://www.youtube.com/watch?v=RI7j5bicTEw&list=PLkVpKYNT_U9egW5padLMHmnTPb6xm4hLf)
 
-[Ruta aprendizaje Microsoft learn] (https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/)
+[Ruta aprendizaje Microsoft learn](https://learn.microsoft.com/es-es/training/paths/build-javascript-applications-typescript/)
 
 
 
